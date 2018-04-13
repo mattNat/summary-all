@@ -1,0 +1,9 @@
+<Display 
+  class={dogToAdopt.class}
+  name={dogToAdopt.name}
+  url={dogToAdopt.url}
+  sex={dogToAdopt.sex}
+  age={dogToAdopt.age}
+  breed={dogToAdopt.breed}
+  story={dogToAdopt.story}
+/>
